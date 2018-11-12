@@ -1,0 +1,29 @@
+
+.guessingLine {
+    letter-spacing: 8px;
+    margin-bottom: 30px;
+}
+
+body{
+    background-color: beige;
+}
+
+.centerCard {
+    background-color: rgb(212, 150, 150);
+}
+
+.restart {
+    background-color: rgb(192, 54, 54);
+    border:  rgb(192, 54, 54);
+    color: white;
+    margin-top: 30px;
+}
+
+.headingContainer {
+    background-color: rgb(138, 138, 206);
+
+}
+
+.titleBar {
+color: white;
+}

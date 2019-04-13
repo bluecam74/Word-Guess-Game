@@ -7,7 +7,7 @@
 
 Game similar to hangman, user uses keyboard to guess letters. Wins and Losses indefinitely tallied until user refreshes page. 
 
-<p align="center"><img src="./assets/images/WordGussScrnSht.png" alt="Word Guess Preview" width="650"></p>
+<p align="center"><img src="./assets/images/WordGussScrnSht.png" alt="Word Guess Preview" width="675"></p>
 
 
 ### Technologies Used
